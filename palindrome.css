@@ -1,0 +1,32 @@
+.inputfield {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  align-items: center;
+  width: 700px;
+  height: 100px;
+  font-size: 40px;
+}
+
+.button {
+  text-align: center;
+  width: 300px;
+  height: 106px;
+  font-size: 40px;
+}
+
+.title {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 80px;
+}
+
+body {
+  background-color: rgb(66, 196, 168);
+}
+
+.inputfield {
+  padding-top: 10px;
+}
